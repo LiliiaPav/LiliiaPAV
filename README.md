@@ -4,8 +4,11 @@
 # 💫 About Me:
 
 🔭 I’m currently working on my website
+
 🌱 I’m currently learning Web development and Python
+
 📫 How to reach me: lilipavli@yahoo.com
+
 😄 I'm from Ukraine and live in San Diego, CA
 
 
